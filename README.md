@@ -14,4 +14,4 @@ this plugin must be added in wordpress
 
 
 
-!('')[]
+!('screenshot')[https://github.com/MahmoudHegazi/smart_like_plugin/blob/main/advanced_plugin.JPG?raw=true]

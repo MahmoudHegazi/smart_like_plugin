@@ -7,5 +7,11 @@ Advanced WordPress plugin that handle likes for your posts with Ajax and UI frie
 * used the filter and update_post_meta and get_post_meta from this topic but my plugin more advanced cus it User friendly
 * + handle login users and non login users
 * use ajax
+* UI with login users becuase it can detect last action of loged user
 * https://inspirationalpixels.com/add-likes-to-wordpress-posts/
 
+this plugin must be added in wordpress
+
+
+
+!('')[]
